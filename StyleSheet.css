@@ -1,0 +1,34 @@
+﻿.padding 
+{
+    padding-right: 400px;
+    padding-left: 400px;
+    border-color: #66FFFF; 
+    font-family: Verdana; color: #000000;
+   font-size:small;
+ 
+}
+
+.Botpad
+{
+    font-family: Verdana; color: #000000;
+    font-size:small;
+}
+
+.Help
+{
+    padding-left: 300px;
+    position:absolute;
+    right:400px;
+    width:300px;
+}
+
+.font 
+{
+    font-family: Verdana;
+    font-size: 9px;
+}
+.headingFont 
+{
+    font-size: 17px;
+}
+
